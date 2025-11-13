@@ -1,5 +1,23 @@
-font-size = 19
-background-blur-radius = 20
-mouse-hide-while-typing = true
-window-decoration = false
+# ===== CLEAN DARK GHOSTTY CONFIG =====
+
+# 🎨 Theme & Colors
+theme = Dracula
+background = #0d0d0d
+foreground = #e0e0e0
+cursor-color = #ffd700
+selection-background = #303030
+selection-foreground = #ffffff
+
+# 🔠 Font
+font-family = "JetBrainsMono Nerd Font"
+font-size = 13.0
+
+# 🪟 Window Behavior
+window-decoration = true
 macos-option-as-alt = true
+background-blur-radius = 20
+background-opacity = 0.95
+
+# 🖱 Interaction
+mouse-hide-while-typing = true
+copy-on-select = true
